@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.men:hover{
+    border-bottom: 3px solid rgb(238, 95, 115);
+    border-radius: 1x;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.women:hover{
+    border-bottom: 3px solid rgb(251, 86, 193);
+    border-radius: 1px;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.kids:hover{
+    border-bottom: 3px solid rgb(242, 106, 16);
+    border-radius: 1px;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.home:hover{
+    border-bottom: 3px solid rgb(242, 194, 16);
+    border-radius: 1px;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.beauty:hover{
+    border-bottom: 3px solid rgb(13, 183, 175);
+    border-radius: 1px;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.studio:hover{
+    border-bottom:3px solid rgb(255, 63, 108);
+    border-radius: 1px;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+.profile:hover{
+    border-bottom:3px solid rgb(255, 63, 108);
+    border-radius: 1px;
+    transition-duration: 40ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
